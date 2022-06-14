@@ -1,3 +1,3 @@
-# Heroku Code
+#Código Heroku
 
-- This branch only for editing and not for deploying.
+-Esta rama solo para editar y no para implementar.
